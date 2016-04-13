@@ -23,4 +23,5 @@ public interface MyObservable {
      */
 
     void notifyObserver(Object objects);
+
 }
